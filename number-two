@@ -1,0 +1,11 @@
+#first-matlab-project
+
+clear;
+clc;
+
+T=100;
+t=1;
+
+while t<T
+    if mod(t,2)==0
+        E=
