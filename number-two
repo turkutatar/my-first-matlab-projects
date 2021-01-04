@@ -1,11 +1,15 @@
 #first-matlab-project
 
-clear;
-clc;
-
-T=100;
-t=1;
-
-while t<T
-    if mod(t,2)==0
-        E=
+function even=Untitled2()
+i=100;
+j=1;
+k=1;
+while j<i
+    if mod(j,2)==0
+        E(k)=j;
+        k=k+1;
+        fprintf('%d is even\n', j);
+    end
+    j=j+1;
+end
+end
