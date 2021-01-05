@@ -1,4 +1,4 @@
-#first-matlab-project
+#matlab script to print even numbers between 1-100
 
 function even=Untitled2()
 i=100;
