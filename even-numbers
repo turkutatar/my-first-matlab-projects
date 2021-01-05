@@ -1,6 +1,6 @@
-#matlab script to print even numbers between 1-100
+#matlab script to print even numbers between 1 to 100
 
-function even=Untitled2()
+function Untitled2()
 i=100;
 j=1;
 k=1;
