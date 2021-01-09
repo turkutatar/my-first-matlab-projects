@@ -1,0 +1,9 @@
+function Untitled6() %for, while görevinde kullanıldı
+sum=0;
+V1=input('Enter a number: ');
+V2=input('Enter a number: ');
+for i=V1:V2
+    sum=sum+i;
+end
+fprintf('The sum of all numbers between %d and %d is %d\n', V1,V2,sum); %disp(sum); aynı isi görüyor
+end
